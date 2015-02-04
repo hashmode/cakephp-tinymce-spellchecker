@@ -34,10 +34,11 @@ specifically
 
 1. download the necessary language from mozilla https://addons.mozilla.org/en-US/firefox/language-tools/
 2. change the file's extension from `.xpi` to `.zip` and extract it
-3. Copy the files the necessary `.dic` and `.aff` files into `app/Vendoer/tm_spellchecker/dics` directory and rename if necessary.
+3. Copy the necessary `.dic` and `.aff` files into `app/Vendoer/tm_spellchecker/dics` directory and rename if necessary.
 
 ## License
 Component by itself is completely free for any kind of use, including any kind of modification, distribution etc.(you can consider GPL, MIT or any open source license, my favorite would be WTFPL, http://en.wikipedia.org/wiki/WTFPL)
+
 Please refer to tinymce's website for tinymce's as well as spelchecker's licenses.
 
 
